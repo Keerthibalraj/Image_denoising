@@ -1,6 +1,6 @@
 # Image_denoising
 
-Gaussian
+# Gaussian
 Non-Local Means
 Median filter
 Bilateral filter
